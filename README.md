@@ -22,6 +22,7 @@ Telegram-аккаунт: Для взаимодействия с ботом.
 
 1. Клонируйте репозиторий:
 git clone https://github.com/alferov77/zoo_bot.git
+
 cd zoo_bot
 
 2. Создайте и активируйте виртуальное окружение:
@@ -29,7 +30,7 @@ cd zoo_bot
 python3 -m venv venv
 source venv/bin/activate
 
-3. На Windows:
+На Windows:
 python -m venv venv
 venv\Scripts\activate
 
